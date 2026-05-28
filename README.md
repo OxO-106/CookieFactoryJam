@@ -10,3 +10,9 @@ Updates:
 - Repo set up
 - Rough Cafe 3d setting built
 - 3D assets for cookies, machines, etc.
+
+5.27
+- UI and states
+- Player movement
+- Camera movement
+- Cookie physical properties (shooting out from the oven)
